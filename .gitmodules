@@ -1,6 +1,3 @@
-[submodule "generators/app/gulp4-frontend-workflow"]
-	path = generators/app/gulp4-frontend-workflow
-	url = https://github.com/drobb2020/gulp4-frontend-workflow
 [submodule "generators/app/templates"]
 	path = generators/app/templates
 	url = https://github.com/drobb2020/gulp4-frontend-workflow

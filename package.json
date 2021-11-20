@@ -1,0 +1,25 @@
+{
+  "name": "generator-gulp4-boilerplate",
+  "version": "1.0.0",
+  "description": "Yeoman generator for gulp4 frontend workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drobb2020/generator-gulp4-boilerplate.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "David Robb <drobb2011@gmail.com> (https://davidrobb2021.tech/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drobb2020/generator-gulp4-boilerplate/issues"
+  },
+  "homepage": "https://github.com/drobb2020/generator-gulp4-boilerplate#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
